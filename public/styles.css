@@ -1,0 +1,52 @@
+.inputContainer {
+  display: flex;
+  flex-direction: row;
+}
+.PlayerContainer {
+  display: flex;
+  flex-direction: row;
+}
+#inputSubmit {
+  display: flex;
+  margin-top: 20px;
+  height: 35px;
+  width: auto;
+}
+#saveButton {
+  display: flex;
+  height: 35px;
+  width: auto;
+  margin-top: 20px;
+}
+
+.PlayerEach {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.PlayerData {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  height: 80px;
+  width: auto;
+  margin-right: 20px;
+}
+
+.ButtonTwo {
+  display: flex;
+  flex-direction: row;
+  height: 35px;
+  width: auto;
+  margin-top: 20px;
+}
+
+#deletebutton {
+  margin-right: 5px;
+}
+
+.fullPlayer {
+  width: 500px;
+  height: 90px;
+}
